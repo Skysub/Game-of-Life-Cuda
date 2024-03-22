@@ -4,3 +4,8 @@
 *.ptx
 *.cubin
 *.fatbin
+/.vs/Game of Life Cuda
+/x64/schmebug
+/x64/Debug
+/Game of Life Cuda/x64/Debug
+/Game of Life Cuda/x64/Release
